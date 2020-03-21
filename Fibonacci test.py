@@ -28,7 +28,7 @@ print(time.time() - t)
 #    elif fi < 1: return 0
 #    return fibonacci(fi-1) + fibonacci(fi-2)
 #print(fibonacci(input_f))
-#print(time.time() - t)
+#print(time.time() - t) 
 #
 #
 #
